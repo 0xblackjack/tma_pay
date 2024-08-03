@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telegram Mini Apps React Template
 
 This template demonstrates how developers can implement a single-page application on the Telegram
@@ -231,3 +232,7 @@ project's information.
 - [Platform documentation](https://docs.telegram-mini-apps.com/)
 - [@telegram-apps/sdk-react documentation](https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk-react)
 - [Telegram developers community chat](https://t.me/devs)
+=======
+# tma_pay
+react telegram ton pay
+>>>>>>> e81b2a2 (Initial commit)
